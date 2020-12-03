@@ -1,5 +1,7 @@
 # Login form & Sign Up form full Code
 
+#initialize XAMPP server and run the code in htdoc  C:\xampp\htdocs\your folder name
+then run the project http://localhost:8080/foldername/login.html
 
 Built with **HTML5** and **CSS3**. 
 
